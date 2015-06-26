@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-  <name>Ultimate Overhaul Modpack V 1.0012</name>
+  <name>Ultimate Overhaul Modpack V 1.0013</name>
   <author>Ninefinger</author>
   <url>https://ludeon.com/forums/index.php?topic=11934.0</url>
   <targetVersion>Alpha 11</targetVersion>
   <description>Collaboration of multiple mods created by some of the most amazing modders on the planet.</description>
   <!--
 Update (26/06/15)
-+Apparello
-   -Removed wrecked power armor
-   -Removed light power armor
-   -Reduced apparel sell price factor
-
-+Miscellaneous
-   -Updated to newest release
-   -Newest release changes traders to no longer visit on foot if temperatures are above 45 degree C or under -25 degrees C
-   -Traders will no longer construct a trade beacon
-   -Changed material cost for trading post so you can no longer deconstruct the tent to receive resources
++Marines
+   -Lowered base recruit dificulty
+   -Changed starting good will to more likely to be friendly
    -->
   </ModMetaData>
 
