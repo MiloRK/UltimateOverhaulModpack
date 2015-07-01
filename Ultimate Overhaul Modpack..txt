@@ -1,0 +1,266 @@
+ :o Ultimate Overhaul Modpack (Updated 28/06/15)  :D
+
+Alpha 11
+
+
+
+
+           :D   Welcome to The Ultimate Overhaul Modpack     :o
+      Experience RimWorld like you've never experienced it before!
+
+
+
+Mod Challenge: https://ludeon.com/forums/index.php?topic=13105.0
+
+
+
+Important:
+
+I have heavily modified several of these mods for direct compatibility, balance, and even aesthetics, with Superior Crafting, please read the changelog for full details!
+
+Pre-Installation:
+
+    Delete all mods inside your mods folder except "core" this is not a mod it is the games core files.
+    Go to:
+        WINDOWS: C:/Users/username/AppData/LocalLow/Ludeon Studios/RimWorld
+        MAC: Users/username/library/Caches/RimWorld
+        LINUX: /home/username/.config/unity3d/Ludeon Studios/RimWorld
+    Delete the Saves, Worlds, and Config folders
+    Run the game once without any mods installed to make sure it is running properly, this will also generate a new config folder.
+    Close the game to finish the pre-installation.
+
+
+Note: On Windows, the AppData folder may be hidden. Solution: http://www.wikihow.com/Find-Hidden-Files-and-Folders-in-Windows
+
+Installation:
+
+    Using 7-zip unzip the Ultimate Overhaul Modpack directly into the mods folder.
+    MAC users you can find your mod folder by right-clicking on your application --> Show Package Contents, the mods folder is in there.
+    Unzip the ModsConfig.rar into your Config folder found here:
+        WINDOWS: C:/Users/username/AppData/LocalLow/Ludeon Studios/RimWorld/Config
+        MAC: Users/username/library/Caches/RimWorld/Config
+        LINUX: /home/username/.config/unity3d/Ludeon Studios/RimWorld/Config
+    It will prompt you to overwrite the file click yes to overwrite the file, and done!
+
+
+Important: This modpack is flawless with no errors, If the loading screen hangs for more than 30 sec, be sure to follow the installation instructions perfectly, re-download the modpack in case it was corrupted or downloaded during an update, be sure you are using 7-zip, and finally if all else fails restart your pc.
+
+This modpack includes the following mods and needs to be loaded in this order! If you downloaded the ModsConfig file and placed it correctly this will be done automatically for you!
+
+    Core By Jabbamonkey (Adds a Textures folder with tons of new textures to the core game and can be removed if necessary.)
+    Edb Mod Order By Edb
+    Edb Prepare Carefully By Edb
+    Backstories By mipen
+    Wave Survival Mode By Justin C
+    Darkness (SBO) By Viceroy (This mod makes advanced outdoor lamps look very impressive.)
+    More Hair By Shinzy
+    Rimsenal Hair By rooki1
+    Biodiversity By Igabod
+    Apparello By Shinzy
+    Colonial marines By skyarkhangel
+    Alpha Muffalo Hat By Shinzy (Modified to use Alpha Muffalo leather.)
+    MD2 Base By mipen
+    ED-Core By Jaxxa (If loaded in this order allows ed-shields to function properly.)
+    SCA11Core By Abrexus (Heavily modified.)
+    Miscellaneous By Haplo (Adds Keybinding Colonist Groups You have the keys 6 to 9 to set drafted colonist positioning areas. And you have key 0 to undraft all colonists without active job.)
+    Expanded Prosthetics & Organ Engineering By Ykara
+    Industrialization By eatKenny
+    LT-RedistHeat By Latta (Adds a complete heating system to the game, build a heating room and duct it to all other rooms and use fans to pump the heat through the ducts.)
+    ED-Shields By Jaxxa (Adds shields to protect against drop pods, mortars, and ballistics. Note: you will need to remember to click on the shield and disable "Intercept Drop Pod" when trading if it is covering your trade beacon or it will destroy the items you purchased or the silver you gained.)
+    RT Fusebox By Ratys
+    RT Storage By Ratys (Adds large quantum stockpiles for storing larger stacks of resources.)
+    Finer Things By DeaconBlues
+    Enhanced Firefighting By BBream (Modified Removed melee weapon BEATfish, adds water pump to the security tab, and a fire extinguisher.)
+    Animal Hide Working By ItchyFlea
+    Weed By blaze7736
+    Stroyent By cythedag (Modified, replaces superior crafting protein synthesis meal replication, synthesizes human meat into proteins to be safely cooked into fine or lavish meals.)
+    Vein Miner By JuliaEllie
+    Seeds Please By Vendan
+    Roof Support Pillar By Rock5
+    Rimfire By Alistaire
+    EMP Pistol By Adamiks
+    Project Armory By Evul
+    Brunayla Weapon Crafting By Brunayla
+    Weapon Crafting + Rimfire Patch By Ninefinger
+    Omni Storage By Adamiks (Adds more storage devices.)
+    More Floors By Telkir
+    Bean Tek Refrigerated Storage By beany_for_ever
+    A2B Conveyor Belts
+    A2B Conveyor Belts ADDON By A2Bcorp
+    Caveworld Flora By Rikiki
+    Clutter By mrofa
+    Additional Joy Objects By cuproPanda
+    MD2 Droids By mipen
+    Turret Collection By eatKenny
+    Medical Drinks By Ykara (Adds antibiotics for boosting immunity for infections, this does not replace medicine.)
+    Fish Industry By Rikiki
+    Norbal Vikings By Shinzy
+    Pirates! By Shinzy
+    Hospitality By Orion
+    Auto-hunt Beacon By Carry
+    Alien Ants By soulkata
+    Mineral Sonar By Rikiki
+    Pawn State Icons By Sadler (Adds cute little icons to your colonists so you can easily tell when they are tired, hungry or stressed etc.)
+    Edb Interface By Edb (Adds a slick new UI to interact, view and scroll through your colonists and even allows scrolling through injured attackers to see which ones you want to imprison.)
+    Advanced Lamps By Igabod (Added directly into superior crafting, adds an outdoor weatherproof light pole, and a weatherproof wall lamp.)
+    ED-Omnigel By Jaxxa (Added directly into superior crafting, adds grow-able Omnigel and one replicator table to turn Omnigel into slag, and rock chunks of any type nothing more.)
+    Gold Floors By ArickB (Added directly into superior crafting.)
+    Heated Floors By Igabod (Added heated floors directly into superior crafting.)
+    Right Tool For The Job By ItchyFlea (Added directly into superior crafting.)
+    Vegtable Garden By dismar (Added directly into superior crafting, heavily modified.)
+    Bufflo By Adamiks (Added Buffalo directly into biodiversity.)
+
+
+Separate Patches:
+
+    Zombie Apocalypse By Justin C
+    Combat Realism By NoImageAvailable
+    Barbed wire and Trenches By elStrages (Added to Eazy Mode Defense Patch.)
+    Rimsenal By rooki1
+    Glitter Tech By Sam_
+
+
+
+Mandatory Mods: If you decide to remove mods you must follow Pre Install instructions above, do not use the ModConfig files i have provided. Load the game, open the mod tab and activate Mod Order mod, then close the mod tab and reopen it. You should then activate all mandatory mods before choosing any other mods you wish to use. Everything is 100% compatible without errors.
+
+    SCA10Core
+    Expanded Prosthetics and Organ Engineering
+    MD2 Base-7
+    Additional Joy Objects
+    Miscellaneous
+    Turret Collection
+    Norbals
+    Finer Things
+    Enhanced Firefighting
+    Weed
+    Industrialization
+    Omni Floors
+    Clutter
+    Stroyent
+    Medical Drinks
+    Everything else is removable
+
+
+
+
+Changelog has been moved to the first comment below!
+Changelog
+
+
+
+
+
+
+RimWorld... The Way It's Meant To Be Played!
+
+
+
+    Known Issues: Seeds Please Mod is not fully updated yet, but is now playable. Colonists will magically throw the seeds onto the crop from where they pick the seeds up.
+
+
+
+
+Important: Make sure to download both files and see Installation at the top of the page.
+
+    Download Modpack: https://goo.gl/9tsw9K
+    Download Mods Config: https://goo.gl/Ufrcdx
+
+
+
+
+Important: All patches are compatible with each other! Read the install instructions I have provided in the rar files.
+
+
+
+
++No Seeds Please Patch: This patch allows you to safely remove seeds please. This patch MUST be applied LAST and Seeds Please Mod must be disabled manually in game.
+
+    Download No Seeds Please Patch: https://goo.gl/WRqdmm
+
+
+
+
+
++Zombie Apocalypse Patch: This patch adds zombies that want to eat your brains! This patch must me activated manually in game.
+
+    Download Zombie Apocalypse Patch: https://goo.gl/6StRII
+
+
+
+
++Rimsenal Patch: This patch adds a modified Rimsenal mod that is compatible with this modpack.
+
+    Download Rimsenal Patch: https://goo.gl/gt79Yk
+
+
+
+Important: The Glitter Tech Patch must be applied last when adding Rimsenal and Combat Realism patches.
+
++Glitter Tech Patch: This patch adds a modified Glitter Tech mod that is compatible with this modpack.
+
+    Download Glitter Tech Patch: https://goo.gl/tZ7FWd
+
+
+
+
++Glitter Tech + Rimsenal ModConfig: This ModConfig is for using Glitter Tech and Rimsenal toegther.
+
+    Download Glitter Tech + Rimsenal ModConfig: https://goo.gl/u6bNeN
+
+
+
+
++Police and Gang Faction Patch: This patch adds Police and Gang factions to the weed mod.
+
+    Download Police and Gang Faction Patch: https://goo.gl/rjNo3n
+
+
+
+
++Eazy Mode Defenses Patch: Apply this patch after you install the modpack, This patch adds embrasures, trenches and barbed wire.
+
+    Download Eazy Mode Defenses: https://goo.gl/qZ6TrX
+
+
+
+
+Important: The Combat Realism + Rimfire + Project Armory Compatibility Patch includes Combat Realism, and my fully overhauled versions of Rimfire, Combat Realism and Project Armory.
+
+
+
++Combat Realism + Rimfire + Project Armory Compatibility Patch: Includes my fully overhauled version of Rimfire and Project Armory Weapons to be compatible with Combat Realism.
+
+    Download Combat Realism + Rimfire + Project Armory Compatibility Patch: https://goo.gl/PiDo4H
+
+
+
+
++Rimsenal + Combat Realism ModConfig: This ModConfig is for using Rimsenal and Combat Realism together.
+
+    Download Rimsenal + Combat Realism ModConfig: https://goo.gl/P4HhXY
+
+
+
+
++Glitter Tech + Combat Realism ModConfig: This ModConfig is for using Glitter Tech and Combat Realism together.
+
+    Download Glitter Tech + Combat Realism ModConfig: https://goo.gl/yOEHSv
+
+
+
+
++Glitter Tech + Rimsenal + Combat Realism ModConfig: This ModConfig is for using Glitter Tech, Rimsenal, Combat Realism together.
+
+    Download Glitter Tech + Rimsenal + Combat Realism ModConfig: https://goo.gl/uMj5XU
+
+
+
+
+Important: When updating this modpack you must follow the Pre - Installation instructions found at the top of the page prior to applying a new update!
+
+
+
+Special thanks to all the great modders for their genius ideas and exceptional modding skills. I hope you enjoy your new found RimWorld experience!
+
+
+Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes.
