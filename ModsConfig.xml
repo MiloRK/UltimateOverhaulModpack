@@ -19,7 +19,6 @@
     <li>MD2Base</li>
 	<li>ED-Core</li>
     <li>SCA11Core</li>
-	<li>Expanded Stone</li>
     <li>Miscellaneous</li>
 	<li>PowerSwitch</li>
     <li>ExpandedProsthetics&amp;OrganEngineering</li>
@@ -80,5 +79,6 @@
 	<li>RWAutoSell</li>
     <li>EdBInterface</li>
 	<li>LT_RedistHeat</li>
+	<li>Expanded Stone</li>
   </activeMods>
 </ModsConfigData>
